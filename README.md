@@ -1,12 +1,6 @@
 # my-first-binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fmspatrickrosendahl/my-first-binder/HEAD)
-
-evaluate the notebooks website_pyppeteer and IALTYO_reload/solve_reload
-
-
-The subfolder "service" contains a complete script for solving IAL captchas. Call it with several images for best reults.
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prosendahl/my-first-binder/HEAD)
 
 See the binder tutorial at 
 
